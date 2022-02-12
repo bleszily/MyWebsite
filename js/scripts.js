@@ -1,10 +1,10 @@
 /*!
-    Title: Dev Portfolio Template
+    Title: My Website
     Version: 1.2.2
-    Last Change: 03/25/2020
-    Author: Ryan Fitzgerald
-    Repo: https://github.com/RyanFitzgerald/devportfolio-template
-    Issues: https://github.com/RyanFitzgerald/devportfolio-template/issues
+    Last Change: 11/02/2022
+    Author: Blessed Uyo
+    Repo: https://github.com/bleszily/MyWebsite
+    Issues: https://github.com/bleszily/issues
 
     Description: This file contains all the scripts associated with the single-page
     portfolio website.
